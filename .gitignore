@@ -29,3 +29,10 @@ crash.log
 .vscode/
 *.swp
 *.swo
+
+# Presentation artifacts
+create_devfest_baku_slides.js
+*Presentation*
+*presentation*
+presentation/
+
